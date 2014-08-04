@@ -1,0 +1,29 @@
+- topic: LibreOffice
+  filename: c-intro.html
+  child: false
+  publish: true
+
+- topic: How to get the Libreoffice
+  filename: htget.html
+  child: false
+  publish: true
+  
+ - topic: How to write a Letter
+  filename: htletter.html
+  child: false
+  publish: true
+
+- topic: How to create a spreadsheet
+  filename: htsheet.html
+  child: true
+  publish: true
+
+- topic: How to create a presentation
+  filename: htpresent.html
+  child: false
+  publish: true
+
+- topic: Support
+  filename: LibreOffice_Help.html
+  child: false
+  publish: true
