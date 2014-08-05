@@ -8,14 +8,14 @@
   child: false
   publish: true
   
- - topic: How to write a Letter
+- topic: How to write a Letter
   filename: htletter.html
   child: false
   publish: true
 
 - topic: How to create a spreadsheet
   filename: htsheet.html
-  child: true
+  child: false
   publish: true
 
 - topic: How to create a presentation
